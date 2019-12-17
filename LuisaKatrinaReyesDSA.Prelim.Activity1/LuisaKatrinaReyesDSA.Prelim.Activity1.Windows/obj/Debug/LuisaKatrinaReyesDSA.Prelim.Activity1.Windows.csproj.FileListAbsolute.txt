@@ -1,0 +1,15 @@
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\bin\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.exe.config
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\bin\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.exe
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\bin\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.pdb
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.csprojAssemblyReference.cache
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\App.g.cs
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows_MarkupCompile.cache
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows_MarkupCompile.lref
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\MainWindow.baml
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.g.resources
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.Properties.Resources.resources
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.csproj.GenerateResource.cache
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.csproj.CoreCompileInputs.cache
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.exe
+C:\Users\VGD 14\source\repos\LuisaKatrinaReyesDSA.Prelim.Activity1\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows\obj\Debug\LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.pdb

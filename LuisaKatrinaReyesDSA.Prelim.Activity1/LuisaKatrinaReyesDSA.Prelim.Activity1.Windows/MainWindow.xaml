@@ -1,0 +1,19 @@
+﻿<Window x:Class="LuisaKatrinaReyesDSA.Prelim.Activity1.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LuisaKatrinaReyesDSA.Prelim.Activity1.Windows"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstExams" HorizontalAlignment="Left" Height="328" Margin="29,44,0,0" VerticalAlignment="Top" Width="180"/>
+        <Button x:Name="btnAdd" Content="ADD" HorizontalAlignment="Left" Height="45" Margin="284,114,0,0" VerticalAlignment="Top" Width="63" FontSize="22" FontWeight="Bold" RenderTransformOrigin="0.19,0.666" Click="BtnAdd_Click"/>
+        <TextBox x:Name="txtNewExam" HorizontalAlignment="Left" Height="43" Margin="238,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245"/>
+        <Button x:Name="btnRemove" Content="REMOVE" HorizontalAlignment="Left" Height="45" Margin="367,114,0,0" VerticalAlignment="Top" Width="116" FontSize="22" FontWeight="Bold" Click="BtnRemove_Click"/>
+        <ListBox x:Name="lstRemoved" HorizontalAlignment="Left" Height="328" Margin="521,44,0,0" VerticalAlignment="Top" Width="190"/>
+        <Button x:Name="btnMoveAll" Content="MOVE TO EXAMS" HorizontalAlignment="Left" Height="51" Margin="284,184,0,0" VerticalAlignment="Top" Width="199" IsCancel="True" FontWeight="Bold" FontSize="22" Click="BtnMoveAll_Click"/>
+        <Button x:Name="btnclear" Content="Clear" HorizontalAlignment="Left" Height="24" Margin="307,260,0,0" VerticalAlignment="Top" Width="145" Click="Btnclear_Click"/>
+
+    </Grid>
+</Window>
